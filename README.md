@@ -1,0 +1,2 @@
+# scanQRcodeVC
+利用原生AVFoundation做的二维码扫描小封装
